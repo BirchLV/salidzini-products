@@ -1,0 +1,86 @@
+HTTP/1.1 200 OK
+Date: Thu, 14 May 2020 12:31:24 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d4482bdf36675241a5f9c7bc4b0c65ddf1589459484; expires=Sat, 13-Jun-20 12:31:24 GMT; path=/; domain=.thinkplus.dev; HttpOnly; SameSite=Lax
+X-Powered-By: Express
+ETag: W/"99d-gDTN89CG0GjaPscsK+vpNnaS3+s"
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 5934a2d2e91cb4d2-RIX
+Content-Encoding: gzip
+cf-request-id: 02b4c417d20000b4d2263f5200000001
+
+<?xml version="1.0"?>
+<mywebstore>
+  <created_at>2020-05-14 15:31</created_at>
+  <products>
+    <product>
+      <id>4466254184547</id>
+      <name>Hempnord pilna spektra 5% CBD eļļa ar MCT, 10 ml</name>
+      <link>https://hempnord.myshopify.com/products/hempnord-fullspectrum-cbd-oil-5</link>
+      <image>https://cdn.shopify.com/s/files/1/0284/4488/5091/products/HempnordCBDella10mlupd.jpg?v=1589294055</image>
+      <category>CBD eļļa</category>
+      <price_with_vat>29.50</price_with_vat>
+      <manufacturer>Hempnord</manufacturer>
+      <delivery_omniva>0</delivery_omniva>
+      <delivery_days_riga>2</delivery_days_riga>
+      <delivery_days_latvija>3</delivery_days_latvija>
+      <availability>Delivery 1 to 3 days</availability>
+      <mpn/>
+      <ean/>
+      <instock>Y</instock>
+      <weight>0</weight>
+      <size>10 ml,3x10 ml</size>
+    </product>
+    <product>
+      <id>4471286497379</id>
+      <name>Delivery</name>
+      <link>https://hempnord.myshopify.com/products/delivery</link>
+      <image>https://cdn.shopify.com/s/files/1/0284/4488/5091/products/itella_a80136fb-4188-42aa-b0f9-cebf9f2059b4.png?v=1583317875</image>
+      <category>delivery</category>
+      <price_with_vat>0.00</price_with_vat>
+      <manufacturer>HempNord</manufacturer>
+      <availability>Delivery 1 to 3 days</availability>
+      <mpn>delivery</mpn>
+      <instock>Y</instock>
+      <weight>1000000</weight>
+    </product>
+    <product>
+      <id>4554244784227</id>
+      <name>Hempnord pilna spektra 5% CBD eļļa ar MCT, 30 ml</name>
+      <link>https://hempnord.myshopify.com/products/hempnord-fullspectrum-cbd-oil-5-30</link>
+      <image>https://cdn.shopify.com/s/files/1/0284/4488/5091/products/HempnordCBDella30ml.jpg?v=1589294085</image>
+      <category>CBD eļļa</category>
+      <price_with_vat>79.30</price_with_vat>
+      <manufacturer>HempNord</manufacturer>
+      <delivery_omniva>0</delivery_omniva>
+      <delivery_days_riga>2</delivery_days_riga>
+      <delivery_days_latvija>3</delivery_days_latvija>
+      <availability>Delivery 1 to 3 days</availability>
+      <mpn/>
+      <ean/>
+      <instock>Y</instock>
+      <weight>0</weight>
+    </product>
+    <product>
+      <id>4554498900067</id>
+      <name>Hempnord CBD losjons, 100 ml</name>
+      <link>https://hempnord.myshopify.com/products/hempnord-cbd-lotion-100-ml</link>
+      <image>https://cdn.shopify.com/s/files/1/0284/4488/5091/products/HempnordCBDlosjons.jpg?v=1589310395</image>
+      <category>CBD krēms, komētika</category>
+      <price_with_vat>29.00</price_with_vat>
+      <manufacturer>HempNord</manufacturer>
+      <delivery_omniva>0</delivery_omniva>
+      <delivery_days_riga>2</delivery_days_riga>
+      <delivery_days_latvija>3</delivery_days_latvija>
+      <availability>Delivery 1 to 3 days</availability>
+      <mpn/>
+      <ean/>
+      <instock>Y</instock>
+      <weight>0</weight>
+    </product>
+  </products>
+</mywebstore>
